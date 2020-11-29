@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://sid3636:sid2020@cluster0.b2aqz.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
