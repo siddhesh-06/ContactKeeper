@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://siddhesh36:<Siddhesh@2023>@project-22.7c0kcam.mongodb.net/?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://siddhesh36:Naruto01@project-22.7c0kcam.mongodb.net/?retryWrites=true&w=majority",
   "jwtSecret": "secret"
 }
